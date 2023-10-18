@@ -1,1 +1,3 @@
-# projeto_relatorio_pbi_dio
+# Projeto Criando um Relatório de Vendas Elegante com Power BI
+
+Criei um projeto robusto no Power BI focado em análise de vendas, reunindo dados cruciais sobre transações e lucratividade. O relatório se destaca pela diversidade de representações visuais, incluindo gráficos de barras, donuts, mapas e radar. Além disso, integrei cards informativos exibindo totais essenciais. A interatividade é a chave, com botões estratégicos para redefinir o estado original, mudar de página e alternar entre diferentes tipos de gráficos. Destaco a funcionalidade de gráficos interativos, respondendo dinamicamente às seleções, proporcionando uma experiência analítica envolvente.
